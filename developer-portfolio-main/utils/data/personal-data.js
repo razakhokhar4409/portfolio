@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Ali Hasnain",
-  profile: "/profile.png",
+  profile: "/profile.jpg",
   designation: "Software Developer",
   description: `My name is Ali Hasnain, and I’m a dedicated and detail-oriented Senior Software Engineer with a strong passion for building scalable and efficient web applications. With hands-on experience across a variety of domains—including medical, banking, ERPs, and CRMs—I thrive in fast-paced environments and enjoy solving complex problems with clean, maintainable code. I'm a quick learner with a methodical, self-driven approach, and I constantly seek opportunities to grow by exploring new technologies and frameworks.
 
