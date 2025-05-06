@@ -1,11 +1,11 @@
 export const contactsData = {
-    email: 'ali.hasnain.9279@gmail.com',
-    phone: '+92 323 4693230',
+    email: 'razariazkhokhar@gmail.com',
+    phone: '+92 322 4488737',
     address: 'Lahore, Pakistan - 54000',
-    github: 'https://github.com/alihasnain1997',
+    github: 'https://github.com/razakhokhar4409',
     // facebook: 'https://www.facebook.com/abusaid.riyaz/',
-    linkedIn: 'https://www.linkedin.com/in/ali-h-211256135/',
+    linkedIn: 'https://www.linkedin.com/in/m-raza-khokhar',
     // twitter: 'https://twitter.com/said7388',
     // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "ali hasnain",
+    devUsername: "raza khokhar",
 }
